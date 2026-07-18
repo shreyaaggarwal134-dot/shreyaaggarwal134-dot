@@ -81,19 +81,12 @@ My first Data Science project, where I analyzed how Generative AI affects studen
 
 ## 📈 GitHub Goals for 2026
 
-* Build 10+ Python projects
 * Explore Machine Learning
 * Contribute to open-source projects
 * Improve problem-solving skills
 * Learn advanced data visualization techniques
 * Strengthen my Git and GitHub workflow
 
----
-
-## 📫 Connect With Me
-
-* GitHub: *(Add your GitHub profile link here)*
-* LinkedIn: *(Add your LinkedIn profile link here)*
 
 ---
 
